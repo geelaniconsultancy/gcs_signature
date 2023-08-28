@@ -5,7 +5,7 @@
 # License LGPL-3.0 or later (https://www.gnu.org/licenses/lgpl-3.0.html).
 
 {
-    'name': 'Gcs Signature',
+    'name': 'Signature, Sales, Invoice, Purchase',
     'version': '1.0.0',
     'category': '',
     'author': 'Geelani Consultancy and Solutions, Aseemuddin Kazi, Mohamed Sohil Inamdar',
